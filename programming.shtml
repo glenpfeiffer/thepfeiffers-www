@@ -1,0 +1,27 @@
+<!--#include virtual="/includes/header.html" -->
+
+	<tr>
+		<td width="135" class="sub_nav_bar">
+		<!--#include virtual="/includes/programming_nav.html" -->
+		</td>
+		<td class="content">
+			<span class="page_title">Computers</span>
+
+			<p>I am an advocate for <a
+			href="http://www.us.debian.org/intro/free">Free/Open Source
+			Software</a>. It is not about the software being free as in beer
+			(which means you don't pay for it), it is about free as in speech
+			(which means it is a right that you have that cannot be taken from
+			you). I use the <a href="http://www.debian.org">Debian
+			GNU/Linux</a> operating system. Not only is it an amazing
+			collection of software based on GNU/Linux, it also upholds the
+			tenets of the FOSS community. It is in fact, the most "Free"
+			operating system available.
+			</p>
+
+			Take a look at some of the <a href="open_source.shtml">Open Source
+			Software</a> that I use most often.
+		</td>
+	</tr>
+
+<!--#include virtual="/includes/footer.html" -->

@@ -1,0 +1,22 @@
+<!--#include virtual="/includes/header.html" -->
+
+	<tr>
+		<td class="sub_nav_bar">
+			<div class="title">Glen's Links</div>
+			<a href="glen.shtml">About Glen</a><br>
+			<a href="resume.shtml">Resume</a><br>
+		</td>
+		<td class="content">
+			<div class="page_title">Glen's Resume</div>
+			<p>For those of you who are interested in my technical background,
+			I have put my resume here in both <a 
+			href="/Glen_Pfeiffer_Resume.doc">Word 2000</a>
+			and ASCII text format.
+			If for some reason you wish to contact me regarding a position,
+			I would appreciate it if you would read my resume carefully before 
+			you do so.</p>
+		</td>
+	</tr>
+
+
+<!--#include virtual="/includes/footer.html" -->

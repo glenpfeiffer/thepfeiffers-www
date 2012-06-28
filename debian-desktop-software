@@ -1,0 +1,187 @@
+===================================
+Debian Desktop Software
+===================================
+
+The following packages are what I install on my desktop systems 
+to be able to do almost everything that I do on a Windows box. If 
+it isn't listed, then I don't do it yet.
+
+
+---------------------------
+Basic Desktop Software
+---------------------------
+
+Package Name              Description
+------------------------- ---------------------------------------
+gaim                      Instant messaging program
+gftp                      File Transfer Program
+gimp                      Image editing program
+gnome-desktop-environment Desktop Environment
+gnome-art                 Install GNOME themes from art.gnome.org
+gnome-themes-extras       Various themes for the GNOME 2 desktop
+gnomebaker                Burn music CD's
+gnomesword                Bible study software
+gthumb                    Image library application)
+OpenOffice.org            Spreadsheet, Document editing, presentation.
+                          Available in main, as well as Backports. [7,8]
+
+
+---------------------------
+System Utilities
+---------------------------
+
+Package Name              Description
+------------------------- ---------------------------------------
+deborphan                 Finds packages that are not required.
+msttcorefonts             Microsoft True Type fonts [6]
+samba                     Share and read files with Windows
+smbfs                     Mount and unmount commands for Samba
+
+
+---------------------------
+Children's Games
+---------------------------
+
+Package Name       Description
+------------------ ---------------------------------------
+childsplay         Suite of 12 educational games for children
+ktuberling         Mr. Potato Head game for children
+tuxpaint           Painting program for children
+
+
+---------------------------
+Web browsing and Multimedia
+---------------------------
+
+Package Name           Description
+---------------------- ---------------------------------------
+alsa-base              The linux sound system.
+alsa-utils             Utilities for configuring Alsa
+flashplayer-mozilla    Browser flash player plugin [1,5]
+icedove                Email Client (Thunderbird)
+iceweasel              Web Browser
+libdvdcss              DVD decryption so you can play DVD's [1]
+sun-java5-jre          Sun's Java Runtime Environment [2,3,4]
+sun-java5-plugin       Sun's Java browser plugin [2,3,4]
+w32codecs              Libs for playing Windows Media Files (wma,wmv), 
+                       Quicktime, RealPlayer [1]
+xmms                   Music player; no CD's?
+
+
+---------------------------
+Programming Related
+---------------------------
+
+Package Name             Description
+----------------------   ---------------------------------------
+vim-full                 Graphical Vim text editor
+iceweasel-dom-inspector  Tool for inspecting the DOM in Iceweasel
+						 ?? not sure if it is necessary, but the 
+						 DOM inspector extension available from 
+						 the mozilla site says it doesn't work 
+						 with 2.0 ??
+
+
+---------------------------
+Packages I am considering
+---------------------------
+
+Package Name                     Description
+-------------------------------- ---------------------------------------
+acroread                         Adobe Acrobat Reader: PDF file viewer [1]
+acroread-escript                 Adobe EScript Plug-In [1]
+acroread-plugins                 Plugins for Adobe Acrobat Reader [1]
+amarok                           KDE Media player - and can sync with an iPod
+dvdrip                           Perl front end for transcode [1]
+faad                             Freeware Advanced Audio Decoder player [1]
+gstreamer0.8-ffmpeg-full         FFmpeg plugin for GStreamer [1]
+gstreamer0.8-plugins-really-bad  GStreamer plugins from the "bad" set [1]
+k9copy                           Copy DVD like dvdshrink [1]
+lame                             An MP3 Encoder [1]
+lame-extras                      Extras for lame MP3 encoder [1]
+libavcodeccvs51                  Library to encode decode multimedia streams [1]
+lives                            Linux Video Editing System [1]
+lxdvdrip                         Tool to make a copy from a Video DVD [1]
+mozilla-acroread                 Adobe Acrobat Reader plugin for mozilla/konqueror [1]
+xdvdshrink                       Copies DVD content on single-layer writable DVD's [1]
+mplayer                          Media player [1]
+mozilla-mplayer                  Firefox plugin for mplayer [1]
+listen                           A nice music player and manager for GNOME
+brasero                          CD/DVD burning application for GNOME
+gnucash                          Personal finance tracking program
+music-applet                     GNOME applet for controlling several different music players
+
+
+
+
+===================================
+Footnotes
+===================================
+
+1. Debian MultiMedia Repository. Add the following to 
+   /etc/apt/sources.lists
+
+   deb http://debian-multimedia.org etch main
+
+   Add Marillat's key to your ring so apt-get stops showing you 
+   an error. Execute these commands:
+
+   # gpg --keyserver pgp.mit.edu --recv-keys 1F41B907
+   # gpg --armor --export 1F41B907 > marillat.asc
+   # apt-key add marillat.asc 
+
+   Update your repository.
+
+2. Only available in the Etch and later non-free repositories.
+   After installing Sun's Java you need to make sure that it is 
+   the default: 
+   # update-java-alternatives --set java-1.5.0-sun
+
+3. http://stepien.com.pl/2006/11/26/java-on-debian-including-firefox-plugin/
+
+4. Java Tester: http://www.javatester.org/version.html
+
+5. Flash Tester: http://www.adobe.com/shockwave/welcome/
+   If the flash plugin loads correctly, mouse over the About tab 
+   in the plugin to find out which version you are running.
+
+6. Available in the non-free section of your repository.
+
+7. Backports Repository. Add the following to 
+   /etc/apt/sources.list
+
+   deb http://www.backports.org/debian etch-backports main contrib non-free
+
+   Add the Backports key to your ring so apt-get stops showing 
+   you errors. Execute these commands:
+
+   # gpg --keyserver hkp://subkeys.pgp.net --recv-keys 16BA136C
+   # gpg --export | apt-key add -
+
+   Update your repository.
+
+8. Edit your /etc/apt/preferences to pin the package you are installing from 
+   Backports.
+
+	Package: <packagename>
+	Pin: release a=etch-backports
+	Pin-Priority: 999
+
+
+===================================
+Other References
+===================================
+
+1. List all Iceweasel/Firefox plugins. Start Iceweasel, and in 
+   the address bar, type: about:plugins
+
+2. WMA, WAV, and OGG media files for testing: 
+   http://xiph.org/vorbis/listen.html
+
+3. Article on setting up Real Player: 
+   http://www.crazysquirrel.com/computing/debian/applications/media-players.jspx
+
+4. Article on using backports.
+   http://forums.debian.net/viewtopic.php?t=4525
+
+

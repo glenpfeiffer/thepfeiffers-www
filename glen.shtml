@@ -1,0 +1,24 @@
+<!--#include virtual="/includes/header.html" -->
+
+	<tr>
+		<td class="sub_nav_bar">
+			<div class="title">Glen's Links</div>
+			<a href="glen.shtml">About Glen</a><br>
+			<a href="resume.shtml">Resume</a><br>
+		</td>
+		<td class="content">
+			<div class="page_title">About Glen</div>
+			<p>I am a programmer for <a 
+			href="http://www.heuristics.net">Heuristic Solutions</a>. <a 
+			href="programming.shtml">Computers</a> are my hobby, and I am an 
+			advocate of <a href="open_source.shtml">Open Source Software</a>. I 
+			enjoy using a variety of programming languages, but I tend to 
+			prefer dynamic languages like <a 
+			href="http://www.ruby-lang.org">Ruby</a>, <a 
+			href="http://www.python.org">Python</a>, and <a 
+			href="http://www.perl.org/">Perl</a>.</p>
+		</td>
+	</tr>
+
+
+<!--#include virtual="/includes/footer.html" -->

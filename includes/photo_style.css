@@ -1,0 +1,1127 @@
+a {
+}
+
+td {
+	color : black;
+}
+
+body {
+	font-size:16px;
+}
+
+.email {
+	font-size : 12px;
+}
+
+.error {
+	color : red;
+	font-size : 12px;
+	font-weight : bold;
+}
+
+.emailstatus1 {
+    font-size: 11px;
+    font-weight: bold;
+    background-color: #E7E7E7;
+}
+
+.emailstatus, .emailstatus2, .emailstatus3, .emailstatus4, .emailstatus5 {
+    font-size: 11px;
+    background-color: #ffffff;
+}
+
+.UnderPhoto {
+    font-size: 10px;
+}
+
+
+.AlbumNav1Normal {
+    font-size: 12px;
+}
+
+.AlbumNav1Current {
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #cccccc;
+}
+
+.MailNav {
+    font-size: 14px;
+    color:white
+}
+
+.LeftNavHeader {
+	color: #cdcdcd;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.LeftNavConent {
+	font-size: 13px;
+}
+
+.header1 {
+	font-size : 18px;
+	font-weight : bold;
+}
+
+.header2 {
+	font-size : 14px;
+	font-weight : bold;
+}
+
+.header3 {
+	font-size : 16px;
+	font-weight :bold;
+}
+
+td {
+	font-size:16px;
+}
+
+.text1 {
+	font-family:Verdana;
+	font-size:18px;
+}
+
+.text1bold {
+	font-family:Verdana;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.text2 {
+	font-family:Verdana;
+	font-size:13px;
+}
+
+.text2bold {
+	font-family:Verdana;
+	font-size:13px;
+	font-weight:bold;
+}
+
+.text2b {
+	font-family:Verdana;
+	font-size:13px;
+	font-weight:bold;
+}
+
+.text3 {
+	font-family:Verdana;
+	font-size:11px;
+}
+
+.text3b {
+	font-family:Verdana;
+	font-size:11px;
+	font-weight:bold;
+}
+
+.text4 {
+	font-family:Verdana;
+	font-size:9px;
+}
+
+.podpis {
+	font-size:8px
+}
+
+.membernav {
+	font-size:10px;
+	font-weight:normal;
+	color:black;
+}
+
+.topnav {
+	font-size:12px;
+	font-weight:bold;
+	color:black;
+	text-decoration:none;
+}
+
+
+.tm {
+	font-size:8px;
+}
+
+.topmainnav2 {
+        font-size:11px;
+        color:black;
+        text-decoration:none;
+	background-color: #dfe5f4;
+}
+
+.topmainnav2_sel {
+        font-size:11px;
+        color:black;
+        text-decoration:none;
+	background-color: #b9c9ef;
+	font-weight:bold;
+}
+
+
+.topmainnav {
+	font-size:11px;
+	color:black;
+	text-decoration:none;
+}
+
+.topmainnav_sel {
+	font-size:11px;
+	font-weight:bold;
+	color:black;
+	text-decoration:none;
+}
+
+
+.topmainnavlink {
+	font-size:13px;
+	color:#5471B9;
+}
+
+
+.butnav {
+	font-size:11px;
+	font-weight:bold;
+	letter-spacing:2px;
+	text-decoration:none;
+}
+
+.section_nav1 {
+	font-size:12px;
+	color: white;
+}
+
+.section_nav2 {
+	font-size:11px;
+	color: white;
+}
+
+.member_nav_link_normal {
+	font-size:11px;
+	color: white;
+}
+
+.member_nav_link_selected {
+	font-size:11px;
+	color: black;
+	background-color: white;
+}
+
+.section_nav1_sel {
+	color:#000000;
+	font-size:11px;
+	background-color: white
+}
+
+.section_nav1 {
+	color:white;
+	font-size:11px;
+	background-color: black
+}
+
+.bottommenu {
+	font-weight:bold;
+	font-size:11px;
+	color:white;
+}
+
+
+.sponsorurl {
+	color:#999999;
+	font-size:10px;
+}
+
+.support_topic { 
+  FONT-FAMILY: Verdana; background-color: #CCCCCC; FONT-SIZE: 11px
+}
+.support_msg { 
+  FONT-FAMILY: Verdana; background-color: #FFFFFF; FONT-SIZE: 11px
+}
+.support_hdr { 
+  FONT-FAMILY: Verdana; background-color: #999999; FONT-SIZE: 11px
+}
+
+.phototitle {
+	font-size:17px;
+	font-weight:bold;
+}
+
+.photodesc {
+	font-size:14px;
+}
+
+.boxshadowS { 
+	border:1px inset black; 
+	background-position: left top;
+	BACKGROUND-IMAGE: url('https://secure.fotki.com/images/input-box-shadow.gif');
+	BACKGROUND-REPEAT: no-repeat 
+}
+
+.boxshadow {
+        border:1px inset black;
+        background-position: left top;
+        BACKGROUND-IMAGE: url('http://images.fotki.com/input-box-shadow.gif');
+        BACKGROUND-REPEAT: no-repeat
+}
+
+.main_header {
+	font-size:24px;
+}
+
+.main_header_sub {
+	font-size:18px;
+}
+
+.req {
+	font-size:10px;
+	color:red;
+}
+
+.hr1 {
+	height:1px;  
+	border-style: none; 
+	background-color: #999;
+}
+
+.tb1 {
+	background-color: #B9C9EF;
+}
+
+.tb2 {
+	background-color: #DADADA;
+}
+
+.tb3 {
+	background-color: #ECECEC;
+}
+
+.tb4 {
+	background-color: #ffffff;
+}
+
+.table1 {
+	border-style: solid; 
+	border-width: 1px;
+}
+
+.table2 {
+	background-color: #eeeeee;
+	border: 1px solid #cbcbcb;
+}
+
+/* Top Navigation */
+
+.topmainnav #sel {
+   font-weight: bold;
+}
+
+/* Home */
+
+.home_fotki table {
+    width: 130px;
+    height: 130px;
+    border: 1px solid Black;
+    margin: 6px auto 6px auto;
+    background-color: White;
+}
+
+.home_fotki td {
+    text-align: center;
+}
+
+.home_fotki a {
+    display: block;
+    padding: 4px;
+}
+
+/* Folders Tree */
+
+td.tree {
+padding: 6px 10px 0 0;
+/*
+background: url("http://images.fotki.com/tree_1/bg-33a.png") repeat-y right
+*/
+}
+
+.tree {
+white-space: nowrap;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px
+}
+
+.tree a {
+display: block;
+text-decoration: none;
+color: #000;
+padding: 3px 0 4px 20px
+}
+
+.tree a:visited { color: #999 }
+.tree a:hover, .tree a:visited:hover { color: #5471B9 }
+
+.tree li#sel>div>a { color:#000 }
+.tree li#sel { font-weight: bold;
+padding:0 }
+
+.tree ul li#sel li a { font-weight: normal }
+
+.tree ul li.new, .tree ul li.shared_new {
+background: url(http://images.fotki.com/tree_1/new.gif) no-repeat }
+
+.tree ol, .tree ul {
+list-style-type: none;
+padding: 0;
+margin: 0 0 0 -20px
+}
+.tree ul ul, .tree ol { margin-left: 20px }
+
+.tree li div { margin-left: 20px }
+
+.tree ul li div { background: url("http://images.fotki.com/tree_1/fo.gif") no-repeat }
+.tree ul li>div { background: url("http://images.fotki.com/tree_1/fo.png") no-repeat }
+.tree ul div.shared, .tree ul div.shared_new { background: url("http://images.fotki.com/tree_1/fos.gif") no-repeat }
+.tree ul li.shared>div, .tree ul li.shared_new>div { background: url("http://images.fotki.com/tree_1/fos.png") no-repeat }
+.tree ol li div { background: url("http://images.fotki.com/tree_1/a.gif") no-repeat }
+.tree ol li>div { background: url("http://images.fotki.com/tree_1/a.png") no-repeat }
+
+.tree.check li div input { margin-right: 25px }
+.tree.check ul li div { background: url("http://images.fotki.com/tree_1/fo.gif") no-repeat 20px }
+.tree.check ul li>div { background: url("http://images.fotki.com/tree_1/fo.png") no-repeat 20px }
+.tree.check ul a { padding-left: 0 }
+.tree.check ul ul { margin-left: 15px }
+.tree.check label {
+float: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px
+}
+.tree.check input[disabled] {	visibility: hidden }
+
+
+/* Reserved for Navigation Panel */
+
+.nav {
+background: #B9C9EF;
+font-size: 13px;
+padding: 3px 5px;
+margin: 10px 0 0 0;
+}
+
+/* Content Panel */
+
+td.folder_content { padding-left: 10px }
+
+div.fdetail {
+width: 100%;
+padding-top: 10px;
+border-bottom: 1px solid #B9C9EF;
+clear: both;
+float: left
+}
+
+div.fdetail.selected {
+background: #F7F7F7
+}
+
+.fdetail a {
+color: #5471B9;
+text-decoration: none
+}
+.fdetail dt a:visited { color: #B9C9EF }
+
+.fdetail table, .fdetail td {
+border-spacing:0; border-collapse:collapse; padding:0
+}
+
+.fdetail td.icon, .fdetail td.album {
+vertical-align: top;
+width: 1%
+}
+
+.fdetail td.prop {
+vertical-align: top;
+width: 99%
+}
+
+.fdetail .album a {
+display: block;
+height: 90px
+}
+
+.fdetail .album th { text-align: center; background: #fff url('http://images.fotki.com/tree_1/album.png') no-repeat center }
+.fdetail.locked .album th { background: #fff url('http://images.fotki.com/tree_1/lock.png') no-repeat center }
+
+.fdetail .icon a {
+height: 48px;
+width: 48px;
+display: block;
+margin: 0 0 5px 0
+}
+.fdetail td.icon { background: url(http://images.fotki.com/tree_1/f3_.gif) no-repeat }
+.fdetail tr>td.icon { background: url(http://images.fotki.com/tree_1/f3_.png) no-repeat }
+
+.fdetail.shared td.icon, .fdetail.shared_new td.icon { background: url(http://images.fotki.com/tree_1/f3_s.gif) no-repeat }
+.fdetail.shared tr>td.icon, .fdetail.shared_new tr>td.icon { background: url(http://images.fotki.com/tree_1/f3_s.png) no-repeat }
+
+.fdetail.locked td.icon, .fdetail.locked_new td.icon { background: url(http://images.fotki.com/tree_1/f3_l.gif) no-repeat }
+.fdetail.locked tr>td.icon, .fdetail.locked_new tr>td.icon { background: url(http://images.fotki.com/tree_1/f3_l.png) no-repeat }
+
+.fdetail.shared_locked td.icon, .fdetail.shared_locked_new td.icon { background: url(http://images.fotki.com/tree_1/f3_ls.gif) no-repeat }
+.fdetail.shared_locked tr>td.icon, .fdetail.shared_locked_new tr>td.icon { background: url(http://images.fotki.com/tree_1/f3_ls.png) no-repeat }
+
+.fdetail .co {
+font-family: Arial, Helvetica, sans-serif;
+color: #999;
+font-size: 9px;
+margin: 0 0 3px 11px
+}
+
+.fdetail dl { margin:0 0 3px 6px }
+
+.fdetail dt {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: #000
+}
+
+.fdetail.new dt a, .fdetail.shared_locked_new dt a, .fdetail.shared_new dt a, .fdetail.locked_new dt a {
+padding-right:25px;
+background: url(http://images.fotki.com/tree_1/new.gif) no-repeat right
+}
+
+.fdetail dt.desc a {
+padding-right:0;
+background: none
+}
+
+.fdetail dt.datex, .fdetail dt.desc {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-style: italic;
+font-size: 13px
+}
+
+.fdetail dt.desc { font-weight: normal }
+
+.fdetail dd {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 11px;
+color: #999;
+margin-left: 20px
+}
+
+.fdetail dd.e, .fdetail dd.p { margin-top: 6px }
+
+.fdetail dd.a, .fdetail dd.f, .fdetail dd.comm, .fdetail dd.hits, .fdetail dd.visits { display: inline; white-space: nowrap }
+
+.fdetail span {
+text-align: right;
+float: right;
+font-size: 11px;
+color: #B9C9EF;
+font-weight: bold;
+padding: 0 0 1px 0
+}
+
+.fdetail span a, .fdetail span label {
+font-weight: normal;
+color: #5471B9;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 11px;
+white-space: nowrap
+}
+
+.fdetail label {
+float: none;
+padding: 0 3px 0 0
+}
+
+.fdetail span a:hover, .fdetail span label:hover, .fdetail span label.hover { color: #000 }
+
+
+
+
+div.head {
+position: fixed;
+top:0;
+width: 100%;
+background-color: White;
+}
+
+div.fpanel {
+position: fixed;
+right: 0;
+top: 80px;
+width: 140px;
+padding: 0;
+margin: 0;
+}
+
+div.spanel {
+position: fixed;
+left: 0;
+margin-left: 0px;
+top: 80px;
+width: 140px;
+}
+
+div.loc {
+position: fixed;
+width: 100%;
+top: 55px;
+}
+
+.loc td {
+padding: 2px 0 1px 3px;
+background-color: White;
+font-size: 11px;
+}
+
+.loc b {
+margin: 0 2px 0 2px;
+font-weight: normal;
+}
+
+.loc a {
+text-decoration: none;
+color: #5471B9;
+}
+
+.loc a:hover {
+text-decoration: underline;
+}
+
+div.content {
+margin-top: 0px;
+z-index: 0;
+}
+
+div.content { 
+  voice-family: "\"}\"";
+  voice-family:inherit;
+  margin-top: 0;
+}
+
+html>body .content {
+  margin-top: 80px;
+} 
+
+.fpanel a, .spanel a {
+color: White;
+font-size: 12px;
+}
+
+.fpanel td, .spanel td {
+/*white-space: nowrap;*/
+}
+
+.fpanel td, .fpanel th {
+	padding: 2px 0 3px 9px;
+}
+
+.fpanel a {
+	margin: 0 0 0 12px;
+}
+
+.fpanel img {
+	margin-left: 5px;
+}
+
+.fpanel th, .spanel th, .spanel h2 {
+text-align: left;
+color: #B9C9EF;
+font-size: 14px;
+}
+
+.spanel h2 {
+text-align:center;
+margin: 20px 0;
+background-color: transparent;
+padding:0;
+}
+
+.spanel th, .spanel td {
+text-align: right;
+}
+
+.spanel td {
+	font-size: 11px;
+	color: White;
+	margin:0;
+}
+
+.spanel #sel, .fpanel #sel {
+background-color: White;
+}
+
+.spanel #sel a, .fpanel #sel a {
+color: Black;
+}
+
+h3 {
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #999;
+background-color: White;
+font-weight: bold;
+margin: 0;
+padding: 0 5px 0 0;
+display:inline;
+}
+
+h3+hr {
+color: #999;
+background-color: #999;
+height: 1px;
+width: 90%;
+margin-top: -8px;
+padding-top: 0;
+text-align: left;
+margin-left: 0;
+border-style: none;
+}
+
+address {
+font-size: 9px;
+font-style: normal;
+text-align: right;
+margin: 9px 9px;
+color: #999;
+}
+
+address a {
+}
+
+.pagenav {
+font-size: 11px;
+padding: 0 10px 10px 0;
+text-align: right;
+}
+
+.pagenav b {
+padding: 2px 4px 2px 5px;
+background-color: #B9C9EF;
+}
+
+.top {
+background-image: url(bg-33.gif);
+background-repeat: repeat-x;
+}
+
+.list td, .list th a {
+text-align:left;
+padding-right:10px;
+/*overflow: hidden;*/
+vertical-align: top;
+}
+
+.list th a {
+white-space: nowrap;
+padding: 3px 0 3px 10px;
+/*height: 24px;*/
+}
+
+.list th.ralign a {
+padding-right:10px;
+}
+
+.ralign {
+text-align:right;
+}
+
+.list th a {
+color: Black;
+font-size: 11px;
+}
+
+.list #sel {
+	background-color: #B9C9EF;
+}
+
+.list th a {
+display: block;
+background-color: #DFE5F4;
+text-decoration: none;
+border-bottom: 2px #5471B9 solid;
+}
+
+.list th a:hover {
+background-color: #B9C9EF;
+}
+
+/* Tabs */
+
+.tabs {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+table.tabs {
+	margin-left: 22px;
+}
+
+.tabs span {
+	margin-left: 2px;
+	background-image: url(tab2.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+.tabs span, .tabs a {
+	padding: 5px 0 5px 0;
+}
+
+.tabs a {
+	padding-left: 6px;
+	margin-right: 3px;
+	text-decoration:none;
+	color:#000000;
+	background-color:#DFE5F4;
+	display: block;
+	text-align: center;
+	background-image: url(tab1.gif);
+	background-repeat: no-repeat;
+}
+
+.tabs a:hover {
+	background-color: #B9C9EF;
+}
+.tabs #sel {
+	font-weight:bold;
+	background-color: #B9C9EF;
+}
+
+
+/* Wizard */
+
+.wizard {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 11px;
+margin: 0;
+padding: 0;
+}
+
+ol.wizard, .wizard ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+ol.wizard {
+width: 100%;
+}
+
+.wizard span, .wizard a, li.un, li#sel {
+padding: 5px 0 5px 0;
+}
+
+.wizard span {
+margin-left: 5px;
+padding-right: 5px;
+padding-left: 5px;
+background-color:#DFE5F4;
+font-weight: bold;
+}
+
+.wizard a {
+padding-left: 6px;
+/*margin-right: 3px; */
+text-decoration:none;
+color:#000000;
+font-size: 11px;
+display: block;
+}
+
+ol.wizard li {
+text-align: right;
+background-color:#B9C9EF;
+font-weight:normal;
+border-bottom: 2px solid #5471B9;
+}
+
+.wizard ul li {
+padding: 2px 3px 3px 0;
+text-align:right;
+color:White;
+border:0;
+background-color: #5471B9;
+}
+
+.wizard ul {
+	margin-top:5px;
+	background-color: #5471B9;
+}
+
+.wizard>ul {
+	margin-top: 0;
+}
+
+.wizard a:hover {
+background-color: #DFE5F4;
+}
+
+.wizard li#sel {
+font-weight:bold;
+background-color:White;
+}
+
+.wizard li#sel span {
+background-color:Yellow;
+}
+
+.wizard li#next {
+padding:0;
+border-bottom: 2px solid #5471B9;
+}
+
+.wizard li#next a {
+background-color:Yellow;
+font-weight:bold;
+text-align:center;
+color: #5471B9;
+}
+
+.wizard li#next a:hover {
+color:Black;
+}
+
+
+
+
+
+
+/* Content */
+
+.content, .content p {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 11px
+}
+
+.content h2 {
+font-size : 15px;
+color: #5471B9;
+padding: 2px;
+margin-bottom: 0
+}
+
+
+.content h3 {
+font-size : 14px;
+color: #000;
+padding: 2px;
+margin-bottom: 0
+}
+
+.content li {
+}
+
+
+/* Forms */
+
+.button {
+font-size: 15px;
+font-weight: normal;
+font-style: normal;
+color: #fff; 
+background-color: #5471B9; 
+margin: 0
+}
+
+.button_w {
+font-size: 15px;
+font-weight: normal;
+font-style: normal;
+color: #fff; 
+background-color: #5471B9;
+margin: 0 0 6px 0;
+width: 100px
+}
+
+.button:focus, .button_w:focus, .button:hover, .button_w:hover {
+background-color: #B9C9EF;
+color: #000
+}
+
+form { margin: 0 }
+
+.form_tip {
+    background-color: #FFFFE1;
+    font-size: 8px;
+    padding: 3px;
+    border: 1px dotted Black;
+    margin-left: 5px;
+}
+
+.form_bg {
+background: #EEE url("http://images.fotki.com/form_bg.gif") repeat-y right
+}
+
+label {
+float: right;
+/*	text-align: right;*/
+font-family: Verdana;
+font-size: 13px;
+white-space: nowrap;
+}
+
+a.help {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 10px;
+color: White;
+background-color: #B9C9EF;
+padding: 0 3px 0 4px;
+font-weight: bold;
+text-decoration: none;
+cursor: help;
+}
+
+a.help:hover {
+background-color: #5471B9;
+}
+
+.boxshadow1 {
+border:1px inset black;
+background: url('http://images.fotki.com/input-box-shadow.gif') no-repeat left top
+}
+
+.boxshadow1:focus {
+background: url('http://images.fotki.com/input-box-shadow-sel.gif')
+}
+
+/* Common */
+
+h2 {
+font-size : 14px;
+background-color: White;
+padding: 2px;
+margin-bottom: 0
+}
+
+
+
+.path {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 13px;
+margin-bottom: 10px
+}
+
+
+
+
+
+
+
+
+
+/* Forms */
+
+form fieldset {
+margin: -7px 1px 0 0;
+padding: 5px;
+background-color: #F7F7F7;
+border-width: 0;
+border-style: dotted
+}
+
+form legend {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px;
+color: Gray;
+padding: 0 5px 2px 5px;
+background-color: White;
+}
+
+form th {
+font-size: 11px;
+font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+/* Cart */
+
+table.cart {
+background-color: #F7F7F7;
+}
+
+table.cart td, table.cart th {
+border-right: 1px solid White;
+padding: 0 5px 2px 5px;
+}
+
+table.cart th span {
+background-color: White;
+padding: 0 5px 2px 5px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px;
+color: Gray;
+}
+
+table.cart table td, table.cart table th {
+border: 0;
+padding: 0;
+}
+
+
+
+/*  Guestbook  */
+
+#gbook {
+font-size: 12px
+}
+    
+#gbook h2 {
+margin-right: 10px;
+padding: 0;
+font-size: 22px;
+display: inline
+}
+	    
+#gbook h3 {
+background-color: #ddd;
+border-left: 10px solid #999;
+padding: 3px 0 3px 10px;
+font-size: 10px;
+font-weight: normal;
+margin: 20px 0 0 -20px
+}
+					    
+#gbook h3 span {
+color: #999
+}
+						
+#gbook .message .header {
+border-left: 1px solid #999;
+padding: 0 0 0 20px
+}
+							
+#gbook .private {
+font-size: 10px;
+font-weight: bold;
+color: Red
+}
+								    
+#gbook .body {
+font-size: 14px;
+padding: 10px 0 20px 20px;
+border-left: 1px solid #999
+}
+										
+#gbook .navbar {
+padding: 5px 20px 5px 20px;
+border: 1px solid #999;
+margin-top: 10px
+}
+									    
+#gbook .message {
+border-bottom: 1px solid #999
+}
+											
+#gbook .message .footer {
+text-align: right;
+padding: 0 0 3px 20px;
+border-left: 1px solid #999
+}

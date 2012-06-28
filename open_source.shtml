@@ -1,0 +1,60 @@
+<!--#include virtual="/includes/header.html" -->
+
+	<tr>
+		<td width="135" class="sub_nav_bar">
+		<!--#include virtual="/includes/programming_nav.html" -->
+		</td>
+		<td class="content">
+			<span class="page_title">Open Source Software</span>
+
+			<p>Here is a list of software applications that I have found to be
+			adequate if not excellent replacements for their non-free
+			counterparts:</p>
+			<ul>
+				<li><a href="http://www.debian.org/">Debian GNU/Linux</a> -
+				Debian is a free operating system (OS) for your computer. It is
+				one of the best (in my not so humble opinion) operating systems
+				available.</li>
+
+				<li><a href="http://www.gnome.org/projects/dia/">Dia</a> - A
+				diagramming and modeling tool. It can be used as a replacement
+				for the Microsoft Visio drawing program though it is more
+				limited (a good thing in my opinion as Visio is bloated).</li>
+
+				<li><a href="http://filezilla-project.org/">FileZilla</a> -
+				A <acronym title="File Transfer Protocol">FTP</acronym>
+				program. This is a very solid FTP program that runs on both
+				GNU/Linux and Windows. </li>
+
+				<li><a
+				href="http://www.mozilla.com/en-US/firefox/">Firefox</a> -
+				A web browser Mozilla put out by the Mozilla foundation.</li>
+
+				<li><a href="http://www.openoffice.org/">Open Office</a> - A
+				direct replacement for Microsoft Office. It has Writer
+				(replacement for Word), Calc (relacement for Excel), Impress
+				(replacement for Powerpoint), Draw (diagrams, 3D
+				illustrations). </li>
+
+				<li><a href="http://www.seamonkeyproject.org/">Seamonkey</a> - A
+				replacement for Microsoft Internet Explorer. It has many
+				features that Internet Explorer has been lacking for quite some
+				time. Includes: Web browser, email client, news client, address
+				book, and bookmark manager.</li>
+
+				<li><a href="http://www.gimp.org/">The Gimp</a> - An excellent
+				image editing package, similar to Adobe Photoshop
+				replacement.</li>
+
+				<li><a
+				href="http://www.mozilla.com/en-US/thunderbird/">Thunderbird</a>
+				- An email/news/rss client put out by the Mozilla foundation.</li>
+
+				<li><a href="http://www.7-zip.org/">7-Zip</a> - A file archiver
+				with excellent compression ratio, supports many formats, and
+				runs on GNU/Linux and Windows.</li>
+			</ul>
+		</td>
+	</tr>
+
+<!--#include virtual="/includes/footer.html" -->

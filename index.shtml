@@ -1,0 +1,22 @@
+<!--#include file="includes/header.html" -->
+
+	<tr>
+		<td class="sub_nav_bar">
+			<div class="title">About Us</div>
+			<a href="glen.shtml">Glen</a><br />
+			<a href="jessica.shtml">Jessica</a><br />
+		</td>
+
+		<td class="content">
+			<div class="page_title">Welcome to our site.</div>
+			<p>
+			Hi, we are <a href="glen.shtml">Glen</a> and <a href="jessica.shtml">Jessica</a>
+			Pfeiffer. We live in Tucson, AZ where I (Glen) work from home as a
+			programmer for <a href="http://www.heuristics.net/">Heuristic
+			Solutions</a>. Check out the rest of our 
+			<a href="http://rgpfeiffer.fotki.com/">photos</a>.</p>
+			
+		</td>
+	</tr>
+
+<!--#include file="includes/footer.html" -->

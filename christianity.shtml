@@ -1,0 +1,24 @@
+<!--#include virtual="/includes/header.html" -->
+
+	<tr>
+		<td width="135" class="sub_nav_bar">
+		<!--#include virtual="/includes/christianity_nav.html" -->
+		</td>
+		<td class="content">
+			<div class="page_title">Christianity</div>
+			<p>I am a Christian. That means that I believe that Jesus Christ is 
+			the Son of God, that He was killed, and that He was raised from the 
+			dead so that we who believe in him, will be forgiven of our sins.
+			</p>
+			<p>This does not make me superior. Christians are not better than
+			non-christians. We merely accepted the gift that God gave us. We
+			have nothing to brag about, and most of us don't claim to be
+			without sin. We all sin every day of our lives. And <b>that</b> is
+			the point behind the gift of salvation: We are sinners, and there
+			is nothing we can do to make ourselves look good in God's eyes. We
+			need Jesus Christ.
+			</p>
+		</td>
+	</tr>
+
+<!--#include virtual="/includes/footer.html" -->

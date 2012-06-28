@@ -1,0 +1,106 @@
+body, table, tr, td
+{
+	font-family: vardana, serif;
+	font-size: 100%;
+	background-color: #ffffff; /*#884A77*/
+	margin-left: 0;
+	margin-top: 0px;
+	color: #333333;
+}
+
+a:link, a:active, a:hover, a:visited
+{
+	color: #7063AD; /*620000*/
+}
+
+a:hover
+{
+	color: #EFB37D; /*#A56AA6;*/
+}
+
+.site_title
+{
+	background-color: #7063AD; /*#54488A;*/
+	text-align: left;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	/*
+	color: #ffffff;
+	font-family: arial;
+	font-size: 170%;
+	font-weight: bold;
+	letter-spacing: 4px;
+	*/
+}
+
+/* ############  NAVIGATION BAR ########## */
+.nav_bar
+{
+	background-color: #7063AD;
+	color: #ffffff;
+	padding-bottom: 5px;
+	text-align: left;
+}
+
+.nav_bar a:link, .nav_bar a:active, .nav_bar a:hover, .nav_bar a:visited
+{
+	color:  #EFE07D;
+	text-decoration: none;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 80%
+}
+
+.nav_bar a:hover
+{
+	color: #D4D6EB;
+}
+
+/* ############  END NAVIGATION BAR ########## */
+
+
+.sub_nav_bar
+{
+	background-color: #ffffff;
+	color: #000000;
+	vertical-align: top;
+	width: 125px;
+	padding-left: 5px;
+	outline-width: 1px;
+	outline-style: solid;
+	outline-color: invert;
+	/*
+	border-right-width: 1px;
+	border-right-style: solid;
+	*/
+}
+
+.sub_nav_bar .title
+{
+	margin-top: 5px;
+	font-weight: bold;
+	color: #514482;
+}
+
+.content
+{
+	padding-left: 8px;
+	vertical-align: top;
+}
+
+.content .page_title
+{
+	color: #514482;
+	font-size: 120%;
+	font-weight: bold;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.footer
+{
+	margin-top: 20px;
+	color: #cecece;
+	font-size: 70%;
+	text-align: center;
+}
